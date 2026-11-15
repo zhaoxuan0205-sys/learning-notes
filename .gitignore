@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+evals/
+tests/
+private/
+*实测*/
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.mov
+*.zip
