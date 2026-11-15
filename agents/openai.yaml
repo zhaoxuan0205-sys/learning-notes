@@ -1,0 +1,7 @@
+interface:
+  display_name: "学习笔记整理"
+  short_description: "把多种课程材料整理为可回溯、可复用的长期个人学习资产"
+  default_prompt: "使用 $learning-notes 将这些课程材料整理成结构清晰、忠于来源、适合长期沉淀的学习笔记。"
+
+policy:
+  allow_implicit_invocation: true
